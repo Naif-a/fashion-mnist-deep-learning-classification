@@ -1,6 +1,0 @@
-Model,Trainable Params,Best Epoch,Train Time (s),Val Acc,Val Loss,Train-Val Gap
-Baseline,"101,770",15,51.6,0.8965,0.2971,0.0226
-Exp. 1: depth/width,"242,762",5,35.3,0.8865,0.3130,0.0050
-Exp. 2: BN + Dropout,"243,658",17,109.4,0.9010,0.2841,0.0075
-Exp. 3: LR 0.0005,"243,658",23,143.4,0.9010,0.2811,0.0155
-Final model,"243,658",25,153.0,0.9098,0.2628,0.0127
