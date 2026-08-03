@@ -1,0 +1,5 @@
+Model,Parameters,Epochs Run,Best Epoch,Training Time (s),Training Accuracy at Best Epoch,Validation Accuracy,Validation Loss,Train-Val Gap
+Experiment 2,236298,24,20,121.1,0.948,0.9092,0.2642,0.0388
+Experiment 1,235146,28,24,109.9,0.9492,0.9063,0.2657,0.0429
+Baseline,101770,30,28,78.8,0.9369,0.903,0.2766,0.0339
+Experiment 3,236298,15,11,73.8,0.9168,0.9028,0.2657,0.014
